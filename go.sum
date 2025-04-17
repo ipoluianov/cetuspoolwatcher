@@ -8,12 +8,10 @@ github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 h1:DACJavvAHhabrF0
 github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0/go.mod h1:E/TSTwGwJL78qG/PmXZO1EjYhfJinVAhrmmHX6Z8B9k=
 github.com/gorilla/css v1.0.0 h1:BQqNyPTi50JCFMTw/b67hByjMVXZRwGha6wxVGkeihY=
 github.com/gorilla/css v1.0.0/go.mod h1:Dn721qIggHpt4+EFCcTLTU/vk5ySda2ReITrtgBl60c=
-github.com/ipoluianov/cetuspools v0.0.0-20250227102847-22e8f379d2de h1:phCsfUG0OeYxL7pO9RRGfQnafvo+HpJWxgT1rV5G0u8=
-github.com/ipoluianov/cetuspools v0.0.0-20250227102847-22e8f379d2de/go.mod h1:nBXoJYvcv8g/clisjRtsV66BmHPcETd/GINQpOszcLE=
-github.com/ipoluianov/goforms v1.0.13 h1:tV9HZ2nC2R0PAJzOe3HmsqU3Gd2SlK0bqA+60eGfZ8I=
-github.com/ipoluianov/goforms v1.0.13/go.mod h1:7oLwuMg2SkltDoQ9AWEmY6DuTO+puOJAuBQkFi34o54=
-github.com/ipoluianov/nui v0.0.1 h1:E4G+HeefOyL3D9UWJikim/LS/YOp9DzT7siih+JinAM=
-github.com/ipoluianov/nui v0.0.1/go.mod h1:6tRivmAsxEnHdtjODArf38NkVrf4ZHhlc26g9J3i6ow=
+github.com/ipoluianov/goforms v1.0.14 h1:tTIzYfChu/7YJ/57vig6pT2tmY+k8c0ZFFZKAXWRCGs=
+github.com/ipoluianov/goforms v1.0.14/go.mod h1:z+tDFEUyAN4L3KaAC5398rHaRwHUNXnOCE4jI1jYcy8=
+github.com/ipoluianov/nui v0.0.2 h1:ksfq2pCMWQiq2K0VEkzswtkdI1iU4i/iUa6WYsEhwdI=
+github.com/ipoluianov/nui v0.0.2/go.mod h1:6tRivmAsxEnHdtjODArf38NkVrf4ZHhlc26g9J3i6ow=
 github.com/ipoluianov/suigo v0.0.10 h1:c4NtGAtIuPFWr65PXHYMWs+33DWbtAbIRw2u6cuoKM0=
 github.com/ipoluianov/suigo v0.0.10/go.mod h1:Oc05qIzQmE0//pGIgOF0EpvG9r5IKkTGsu5/YCMZ/ps=
 github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 h1:zYyBkD/k9seD2A7fsi6Oo2LfFZAehjjQMERAvZLEDnQ=
